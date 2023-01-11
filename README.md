@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-![GitHub all releases]
-(https://img.shields.io/github/languages/top/sathitSAPMEK/nestjs-redis-example?color=yellow)
+![My GitHub all releases](https://github.com/sathitSAPMEK/[sathitSAPMEK](https://github.com/sathitSAPMEK/nestjs-redis-example))
 <!---
 sathitSAPMEK/sathitSAPMEK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
